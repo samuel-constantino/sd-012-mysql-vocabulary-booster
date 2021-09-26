@@ -13,4 +13,3 @@ WHERE
     C1.Country = C2.Country
         AND C2.countrymen_quantity > 0
 ORDER BY Nome;
-  
